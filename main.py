@@ -97,5 +97,6 @@ scrape_button = tk.Button(app, text="شروع استخراج", command=start_scr
 scrape_button.pack(pady=20)
 
 app.mainloop()
+print('finish')
 
 
